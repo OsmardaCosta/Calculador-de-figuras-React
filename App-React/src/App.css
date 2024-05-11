@@ -78,3 +78,20 @@ footer{
         width: 70px;
     }
 }
+
+.icon{
+    vertical-align: middle;
+    color: chartreuse;
+    font-size: 23px;
+    animation: iconaAnimation 5s linear infinite;
+}
+
+@keyframes iconaAnimation {
+    0%{
+        transform: rotate(0);
+    }
+
+    100%{
+        transform: rotate(365deg);
+    }
+}
