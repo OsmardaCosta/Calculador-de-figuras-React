@@ -1,6 +1,6 @@
 # Projeto de Cálculo de Áreas
 
-Este projeto é uma aplicação React para calcular a área de três formas geométricas: trapézio, quadrado e círculo. A aplicação utiliza hooks como `useState` para gerenciar o estado e está dividida em componentes para manter o código organizado e modular.
+Este projeto é uma aplicação React para calcular a área de quatro formas geométricas: trapézio, quadrado, círculo e triângulo . A aplicação utiliza hooks como `useState` para gerenciar o estado e está dividida em componentes para manter o código organizado e modular.
 
 ## Tecnologias Utilizadas
 
@@ -12,9 +12,10 @@ Este projeto é uma aplicação React para calcular a área de três formas geom
 ```
 src/
 |-- components/
-|   |-- CircleArea.js
-|   |-- SquareArea.js
-|   |-- TrapezoidArea.js
+|   |-- Triângulo.jsx
+|   |-- CircleArea.jsx
+|   |-- SquareArea.jsx
+|   |-- TrapezoidArea.jsx
 |-- App.js
 |-- index.js
 |-- styles.css
