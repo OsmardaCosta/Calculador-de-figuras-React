@@ -1,5 +1,3 @@
-### README para o Projeto de Cálculo de Áreas em React
-
 # Projeto de Cálculo de Áreas
 
 Este projeto é uma aplicação React para calcular a área de três formas geométricas: trapézio, quadrado e círculo. A aplicação utiliza hooks como `useState` para gerenciar o estado e está dividida em componentes para manter o código organizado e modular.
